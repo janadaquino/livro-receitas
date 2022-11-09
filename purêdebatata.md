@@ -1,4 +1,4 @@
-#Purê de Batata
+<h1>Purê de Batata</h1>
 
 <h2> Ingredientes
 <h3> Batata
