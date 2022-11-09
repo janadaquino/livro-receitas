@@ -11,6 +11,12 @@
 <em>Tanto faz</em>
 
 <h3> Alê é um amorzinho </h3>
+<br>Gostoso
+<br>Lindo
+<br>Maravilhoso
+<br>Divertido
+<br>Carente kkk -sqn
+<br>Meloso
 
 <h3>Jana Gostosa</h3>
 <br>Sorriso Lindo
