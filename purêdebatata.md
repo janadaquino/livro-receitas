@@ -1,13 +1,13 @@
 <h1>Purê de Batata</h1>
 
 <h2> Ingredientes</h2>
-<en><br> Batata</en>
-<en><br>Agua</en>
-<en><br>Leite</en>
-<en><br>Manteiga</en>
-<en><br>Queijo Mussarela</en>
+<em><br> Batata</em>
+<em><br>Agua</em>
+<em><br>Leite</em>
+<em><br>Manteiga</em>
+<em><br>Queijo Mussarela</em>
 
 <h2> Modo de Preparo</h2>
-<en>Tanto faz</en>
+<em>Tanto faz</em>
 
 <h3> Alê é um amorzinho </h3>
